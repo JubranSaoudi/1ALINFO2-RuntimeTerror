@@ -6,5 +6,6 @@
 	<classpathentry kind="lib" path="C:/Users/jsaoudi/Desktop/WORK/apache-commons-httpcore.jar/apache-commons-httpcore.jar"/>
 	<classpathentry kind="lib" path="C:/Users/jsaoudi/Downloads/java-json.jar"/>
 	<classpathentry kind="lib" path="C:/Users/jsaoudi/Downloads/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jsaoudi/Desktop/twilio-7.34.1-jar-with-dependencies.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
