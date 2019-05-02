@@ -2,5 +2,10 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/jsaoudi/Desktop/WORK/apache-commons-httpclient.jar/apache-commons-httpclient.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jsaoudi/Desktop/WORK/apache-commons-httpcore.jar/apache-commons-httpcore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jsaoudi/Downloads/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jsaoudi/Downloads/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jsaoudi/Desktop/twilio-7.34.1-jar-with-dependencies.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
